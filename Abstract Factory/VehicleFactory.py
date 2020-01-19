@@ -1,5 +1,5 @@
-from CarFactory import CarFactory
-from BusFactory import BusFactory
+from Factories.CarFactory import CarFactory
+from Factories.BusFactory import BusFactory
 
 car_factory = CarFactory()
 bus_factory = BusFactory()

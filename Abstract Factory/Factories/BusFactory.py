@@ -1,4 +1,4 @@
-from Factories.Bus import Bus
+from Models.Bus import Bus
 
 
 class BusFactory:
